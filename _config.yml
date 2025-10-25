@@ -8,13 +8,28 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Yang Penghui / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yang Penghui"
-description              : &description "a senior undergraduate student from Tsinghua University"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://yangpenghui.github.io 
-baseurl                  : 
+description              : &description "a senior undergraduate student from Tsinghua University"
+url                      : "https://yangpenghui.github.io"
+baseurl                  : ""   # 主页仓库必须留空！
+repository               : "yph22/yangpenghui.github.io"
+
+# === 主题加载 ===
+# AcademicPages 的主题托管在 GitHub 上，必须添加这一行
+remote_theme: "academicpages/academicpages.github.io"
+
+# 如果想改为 Minimal Mistakes，可换成：
+# remote_theme: "mmistakes/minimal-mistakes"
+
+# 插件（必要）
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+  - jekyll-redirect-from
 repository               : "yph22/yangpenghui.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
