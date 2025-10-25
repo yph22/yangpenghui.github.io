@@ -18,10 +18,12 @@ repository               : "yph22/yangpenghui.github.io"
 
 # === 主题加载 ===
 # AcademicPages 的主题托管在 GitHub 上，必须添加这一行
-remote_theme: "academicpages/academicpages.github.io"
+# remote_theme: "academicpages/academicpages.github.io"
 
 # 如果想改为 Minimal Mistakes，可换成：
 # remote_theme: "mmistakes/minimal-mistakes"
+
+theme: academicpages
 
 # 插件（必要）
 plugins:
