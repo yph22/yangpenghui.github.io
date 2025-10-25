@@ -12,7 +12,7 @@ title                    : "Yang Penghui / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yang Penghui"
 description              : &description "a senior undergraduate student from Tsinghua University"
-url                      : "https://yangpenghui.github.io"
+url                      : "https://github.com/yph22/yangpenghui.github.io/"
 baseurl                  : ""   # 主页仓库必须留空！
 repository               : "yph22/yangpenghui.github.io"
 
