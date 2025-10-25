@@ -23,7 +23,7 @@ repository               : "yph22/yph22.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile by ai.png"
+  avatar           : "my_profile_by_ai.png"
   name             : "Yang Penghui"
   pronouns         : # example: "she/her"  
   bio              : "Tsinghua University."
