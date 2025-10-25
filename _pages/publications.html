@@ -5,9 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% else %}
+{% assign pub_count = site.publications | size %}
+
+{% if pub_count == 0 %}
   <p>I am currently focusing on ongoing research projects, and my first publications are in preparation.
 Please stay tuned for upcoming updates!</p>
-{% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
