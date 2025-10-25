@@ -1,30 +1,75 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi I am Yang Penghui, now a senior undergraduate student majoring in Building Environment and Energy Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-I will embark on my doctoral journey at [Shanghai AILab](https://www.shlab.org.cn/)(very fortunate to be advised by [Zang Yuhang](https://yuhangzang.github.io/) in 2026 (in a joint training program with [SAI](https://soai.sjtu.edu.cn/)). My research interest includes **Deep Learning, Multimodal Learning** and **Large Language Models**.
+## 👋 Hi there!
 
-You can find my CV here: [My CV](/assets/CV.pdf).
+I'm **Penghui Yang (杨鹏辉)**, a senior undergraduate student majoring in **Building Environment and Energy Engineering** at [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-[Email](mailto:yph22@mails.tsinghua.edu.cn) / [Github](https://github.com/yph22) 
+I will begin my **Ph.D. journey** in **2026** at the [Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab)](https://www.shlab.org.cn/), under the supervision of [Prof. Yuhang Zang](https://yuhangzang.github.io/), in a **joint training program** with the [School of Artificial Intelligence, Shanghai Jiao Tong University (SAI)](https://soai.sjtu.edu.cn/).  
 
-## News
-* **2025.10.21** Started my intern journey at Shanghai [AILab](https://www.shlab.org.cn/).
-* **2025.10.10** Got ***National Scholarship***!
+My research interests broadly lie in:
 
-## Honors and Awards
-* **National Scholarship**(2025.10)
-* **Second Prize in Tsinghua University Artificial General Intelligence Competition**(2025.5)
-* **Tsinghua University Comprehensive Excellence Scholarship**(2024.12)
-* **Tsinghua University Comprehensive Excellence Scholarship**(2023.12)
+- **Deep Learning**  
+- **Multimodal Learning**  
+- **Large Language Models (LLMs)**  
 
-## Experience
-* 2022.8-2026.6(expected) | B.Eng., Department of Building Environment and Energy Engineering, Tsinghua University
-* 2025.10-now | Internship in Shanghai AILab (base in Beijing)
-* 2026.9(expected) | Ph.D. Student, Shanghai AILab and SAI
+Currently, I’m particularly interested in **vision-language pre-training** and **post-training alignment** of large multimodal models.
+
+📄 For more details, please see my [**CV**](/assets/CV.pdf)  
+📬 [Email](mailto:yph22@mails.tsinghua.edu.cn) • [GitHub](https://github.com/yph22)
+
+---
+
+## 📰 News
+
+- **2025.10.21** — Started my internship at [Shanghai AI Lab](https://www.shlab.org.cn/) (Beijing Base).  
+- **2025.10.10** — Honored to receive the **National Scholarship**, awarded to the **Top 0.2% of undergraduates in China**.  
+- **2025.05** — Won the **Second Prize** in the *Tsinghua University Artificial General Intelligence Competition*.  
+
+---
+
+## 🏆 Honors & Awards
+
+- **National Scholarship**, Ministry of Education of China (2025.10)  
+- **Second Prize**, *Tsinghua University Artificial General Intelligence Competition* (2025.05)  
+- **Comprehensive Excellence Scholarship (Top 10%)**, *Tsinghua University* (2024.12)  
+- **Comprehensive Excellence Scholarship (Top 10%)**, *Tsinghua University* (2023.12)  
+
+---
+
+## 🎓 Education & Experience
+
+**B.Eng. (2022.08 – 2026.06, expected)**  
+*Department of Building Environment and Energy Engineering, Tsinghua University*  
+- Focused on AI applications in building environment and energy systems.  
+- Rank: 1/16 in my major.  
+
+**Intern (2025.10 – Present)**  
+*Shanghai Artificial Intelligence Laboratory (Beijing Base)*  
+- Exploring **multimodal large language models (MLLMs)**, with a focus on **vision-language pre-training** and **post-training alignment**.  
+
+**Ph.D. Student (2026.09, expected)**  
+*Shanghai AI Lab* & *School of Artificial Intelligence, Shanghai Jiao Tong University (Joint Program)*  
+
+---
+
+## 💡 Research Interests
+
+I am broadly interested in **foundation models** and **multimodal intelligence**, especially topics at the intersection of **representation learning**, **model efficiency**, and **alignment**.  
+My long-term goal is to build **trustworthy and efficient general-purpose AI systems** that can adapt across modalities and domains.
+
+---
+
+## 🌱 Outside of Research
+
+When I’m not coding or writing, I enjoy:  
+- 🏃 **Fitness, basketball, and billiards** — keeping balance between body and mind.  
+- ☕ **Café hopping** — good ideas often come with good coffee.  
+
+---
