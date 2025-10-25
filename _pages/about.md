@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now a senior undergraduate student majoring in Building Environment and Energy Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/).
+Hi I an Yang Penghui, now a senior undergraduate student majoring in Building Environment and Energy Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/).
 
 I will embark on my doctoral journey at [Shanghai AIlab](https://www.shlab.org.cn/)(very fortunate to be advised by [Zang Yuhang](https://yuhangzang.github.io/) in 2026 (in a joint training program with [SAI](https://soai.sjtu.edu.cn/)). My research interest includes Large Language Models, Multimodal Learning and Reinforcement Learning.
 
