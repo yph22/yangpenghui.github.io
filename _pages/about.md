@@ -30,7 +30,7 @@ Currently, I’m particularly interested in **vision-language pre-training** and
 
 - **2025.10.21** — Started my internship at [Shanghai AI Lab](https://www.shlab.org.cn/) (Beijing Base).  
 - **2025.10.10** — Honored to receive the **National Scholarship**, awarded to the **Top 0.2% of undergraduates in China**.  
-- **2025.05** — Won the **Second Prize** in the *Tsinghua University Artificial General Intelligence Competition*.  
+- **2025.05** — Won the **Second Prize** in the *Tsinghua University Artificial General Intelligence Competition* for a [**RAG**](https://github.com/BEEE22/Cleanroom-RAG) project.  
 
 ---
 
