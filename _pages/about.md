@@ -11,7 +11,7 @@ redirect_from:
 
 I'm **Penghui Yang (杨鹏辉)**, a senior undergraduate student majoring in **Building Environment and Energy Engineering** at [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-I will begin my **Ph.D. journey** in **2026** at the [Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab)](https://www.shlab.org.cn/), under the supervision of [Prof. Yuhang Zang](https://yuhangzang.github.io/), in a **joint training program** with the [School of Artificial Intelligence, Shanghai Jiao Tong University (SAI)](https://soai.sjtu.edu.cn/).  
+I will begin my **Ph.D. journey** in **2026** at the [Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab)](https://www.shlab.org.cn/), under the supervision of [Yuhang Zang](https://yuhangzang.github.io/), in a **joint training program** with the [School of Artificial Intelligence, Shanghai Jiao Tong University (SAI)](https://soai.sjtu.edu.cn/).  
 
 My research interests broadly lie in:
 
