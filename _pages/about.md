@@ -14,3 +14,7 @@ You can find my CV here: [my CV](/assets/CV.pdf).
 
 [Email](mailto:yph22@mails.tsinghua.edu.cn) / [Github](https://github.com/yph22) 
 
+## News
+* **Oct 2025** Started my doctoral journey.
+* **Sep 2025** Created this personal homepage.
+
