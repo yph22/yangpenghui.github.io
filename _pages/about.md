@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am now a senior undergraduate student majoring in Building Environment and Energy Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-I will embark on my doctoral journey at [Shanghai ailab](https://www.shlab.org.cn/)(very fortunate to be advised by [Zang Yuhang](https://yuhangzang.github.io/) in 2026 (in a joint training program with [SAI](https://soai.sjtu.edu.cn/)). My research interest includes Large Language Models, Multimodal Learning and Reinforcement Learning.
+I will embark on my doctoral journey at [Shanghai AIlab](https://www.shlab.org.cn/)(very fortunate to be advised by [Zang Yuhang](https://yuhangzang.github.io/) in 2026 (in a joint training program with [SAI](https://soai.sjtu.edu.cn/)). My research interest includes Large Language Models, Multimodal Learning and Reinforcement Learning.
 
 You can find my CV here: [Yang Penghui's Curriculum Vitae](../assets/CV.pdf).
 
