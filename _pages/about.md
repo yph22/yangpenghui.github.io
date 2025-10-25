@@ -38,8 +38,8 @@ Currently, I’m particularly interested in **vision-language pre-training** and
 
 - **National Scholarship**, Ministry of Education of China (2025.10)  
 - **Second Prize**, *Tsinghua University Artificial General Intelligence Competition* (2025.05)  
-- **Comprehensive Excellence Scholarship (Top 10%)**, *Tsinghua University* (2024.12)  
-- **Comprehensive Excellence Scholarship (Top 10%)**, *Tsinghua University* (2023.12)  
+- **Comprehensive Excellence Scholarship** (Top *10%*), *Tsinghua University* (2024.12)  
+- **Comprehensive Excellence Scholarship** (Top *10%*), *Tsinghua University* (2023.12)  
 
 ---
 
